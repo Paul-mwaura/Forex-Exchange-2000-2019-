@@ -1,5 +1,5 @@
-# Forex-Exchange-2000-2019-
-> The main objective for this project is to know the effect of the U.S. dollar on other currencies in the year 2008(The Great Recession). 
+# Forex-Exchange-2000-2019
+> The main objective for this project is to know the effect of the U.S. dollar on other currencies in the year 2008(during The Great Recession). 
 > We will achieve this by getting the average currency for that specific year for each country and comparing it with the U.S. dollar. Once we get the output for this, we will also compare with the previous years to see whether the effect is the same.
 > Below are some of the insights we were seeking from our dataset;
 > * What is the average exchange rate for all the countries in the dataset?
